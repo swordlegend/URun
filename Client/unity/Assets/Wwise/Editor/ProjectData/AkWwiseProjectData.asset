@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1918ba378264b4ea7d3d8d66e38506, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  CurrentPluginConfig: 
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{2B414C89-2C48-41AF-A2F1-006AEA62CACF}'
+    m_lastTimePsrt1: 369564651
+    m_lastTimePart2: -1999279006
+    List:
+    - Name: battle_test
+      Path: Default Work Unit\music\battle_test
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music
+        ObjectType: 4
+      - ElementName: battle_test
+        ObjectType: 3
+      ID: -804049782
+      Guid: 8ef14d9a75c007459c153d18620dfe51
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: color_change
+      Path: Default Work Unit\SFX\items\color_change
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: items
+        ObjectType: 4
+      - ElementName: color_change
+        ObjectType: 3
+      ID: 1489622845
+      Guid: 5e8666946b5cd048b82cf7c480dd03a7
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: game_start
+      Path: Default Work Unit\music\game_start
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music
+        ObjectType: 4
+      - ElementName: game_start
+        ObjectType: 3
+      ID: 733168346
+      Guid: 0033e32e3de4704eb6e3b98e39d57d5c
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: main_menu
+      Path: Default Work Unit\music\main_menu
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music
+        ObjectType: 4
+      - ElementName: main_menu
+        ObjectType: 3
+      ID: 2005704188
+      Guid: 99a4f55dd4fb9a4799bcd151ed51581d
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: pickup_item
+      Path: Default Work Unit\SFX\items\pickup_item
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: items
+        ObjectType: 4
+      - ElementName: pickup_item
+        ObjectType: 3
+      ID: 902717029
+      Guid: 4b24b769ea146a42b3329e366aad0f57
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: player_lose
+      Path: Default Work Unit\music\player_lose
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music
+        ObjectType: 4
+      - ElementName: player_lose
+        ObjectType: 3
+      ID: -449338646
+      Guid: f3cd2b4243b3ad43868bc5e3e42107d7
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: player_win
+      Path: Default Work Unit\music\player_win
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: music
+        ObjectType: 4
+      - ElementName: player_win
+        ObjectType: 3
+      ID: 1002342001
+      Guid: b4b37b58d4c9ad4fb20bf1b6d01aea66
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: reverse_direction
+      Path: Default Work Unit\SFX\items\reverse_direction
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: items
+        ObjectType: 4
+      - ElementName: reverse_direction
+        ObjectType: 3
+      ID: -980125857
+      Guid: e6fbf016b136b74fbb9d882c5c7c2ba0
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: trap_setup
+      Path: Default Work Unit\SFX\items\trap_setup
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: items
+        ObjectType: 4
+      - ElementName: trap_setup
+        ObjectType: 3
+      ID: 1098856194
+      Guid: 22818a19e87ee24c8547daa7907d18f4
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: trap_triggered
+      Path: Default Work Unit\SFX\items\trap_triggered
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: items
+        ObjectType: 4
+      - ElementName: trap_triggered
+        ObjectType: 3
+      ID: -510055962
+      Guid: 66f9c21a6ae429469ca0fe0acc917b3f
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+    - Name: UI_click
+      Path: Default Work Unit\SFX\UI_click
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SFX
+        ObjectType: 4
+      - ElementName: UI_click
+        ObjectType: 3
+      ID: -2045197766
+      Guid: 72bc419783de944e8f56df796da652e9
+      minDuration: 0
+      maxDuration: 0
+      maxAttenuation: 0
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{6B4BF017-1C91-4618-907C-CBF93B8ECF72}'
+    m_lastTimePsrt1: -1419283639
+    m_lastTimePart2: -1999279471
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{0AC6C24A-939F-4BB2-82BF-D5DB27C1C486}'
+    m_lastTimePsrt1: -1419423981
+    m_lastTimePart2: -1999279471
+    List:
+    - Name: game_status
+      Path: Default Work Unit\game_status
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: game_status
+        ObjectType: 9
+      ID: -1841914880
+      Guid: 0b8e7675b4417b46b1d08e8f6298fdbb
+      values:
+      - battle
+      - explore
+      - lose
+      - menu
+      - None
+      - win
+      ValueIcons:
+      - ElementName: battle
+        ObjectType: 8
+      - ElementName: explore
+        ObjectType: 8
+      - ElementName: lose
+        ObjectType: 8
+      - ElementName: menu
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: win
+        ObjectType: 8
+      valueIDs: ffc51baf16d58a2256be2f0df0256c9bdb3ba32c6d07663a
+      ValueGuids:
+      - bytes: 65250d77799a2245b2730d53da231826
+      - bytes: f2f0909fad445f46ad3a5ced840f4bab
+      - bytes: 84df9a92ab8f9f479bf9f360881029de
+      - bytes: c3019ea45741c342a7115b440db28462
+      - bytes: 537e34e58b53d349aee9d13fe4340a91
+      - bytes: 1558298a4a934e47888899eaec7591c9
+    - Name: leading_player
+      Path: Default Work Unit\leading_player
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: leading_player
+        ObjectType: 9
+      ID: 405984407
+      Guid: 935d43ccd3feb74598f288dccc304475
+      values:
+      - blue
+      - green
+      - None
+      - red
+      ValueIcons:
+      - ElementName: blue
+        ObjectType: 8
+      - ElementName: green
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: red
+        ObjectType: 8
+      valueIDs: 6985064fb29732f7db3ba32c92d2723a
+      ValueGuids:
+      - bytes: d208267680539f49842f7694191a1c84
+      - bytes: 6245abf99bebd44cb88086c0539162ce
+      - bytes: df4a2710fb6669429e2ab6206b243a6d
+      - bytes: 7c9a2836882f1c42ae7457b3c38f89bf
+    - Name: player_color
+      Path: Default Work Unit\player_color
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_color
+        ObjectType: 9
+      ID: 919992774
+      Guid: bd0952f487ad57419993582998349305
+      values:
+      - blue
+      - green
+      - None
+      - red
+      ValueIcons:
+      - ElementName: blue
+        ObjectType: 8
+      - ElementName: green
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: red
+        ObjectType: 8
+      valueIDs: 6985064fb29732f7db3ba32c92d2723a
+      ValueGuids:
+      - bytes: 323a373209a6a642b090ab4c80c7c246
+      - bytes: 684cbd30f7ab41459dea74582803692c
+      - bytes: 38aa6dae2ecb7144b804f28fa6fdf825
+      - bytes: 833c8af48064f54d8ee58411a4468858
+    - Name: player_trailing
+      Path: Default Work Unit\player_trailing
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_trailing
+        ObjectType: 9
+      ID: -742811011
+      Guid: 6c2f43c082b06c4a952709997eee0a34
+      values:
+      - no
+      - None
+      - yes
+      ValueIcons:
+      - ElementName: no
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: yes
+        ObjectType: 8
+      valueIDs: 8c187763db3ba32ca689613a
+      ValueGuids:
+      - bytes: 02e0d6d3791c7840ad11aca26c370807
+      - bytes: fa8d5e1fae8d3c45ad202a080883ec98
+      - bytes: 3e6f4c77003f1443bd00677dd96bfa13
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{DBD84194-349F-4D83-9052-ABB9416EC1DB}'
+    m_lastTimePsrt1: -1420047265
+    m_lastTimePart2: -1999279471
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{10DEA959-108E-438C-B42E-B6D45B5594F3}'
+    m_lastTimePsrt1: -536115171
+    m_lastTimePart2: -1999279469
+    List:
+    - Name: audio
+      Path: Default Work Unit\audio
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: audio
+        ObjectType: 7
+      ID: 1069811801
+      Guid: ddd151a251a37c4ea2057ff684566a72
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{C0F052B3-79A0-4C67-8DF4-668AD350295E}'
+    m_lastTimePsrt1: -1420565496
+    m_lastTimePart2: -1999279471
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{152FE818-A11C-413E-A516-B2B1607E22B0}'
+    m_lastTimePsrt1: -1419891591
+    m_lastTimePart2: -1999279471
+    List: []
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{14B85302-5C6D-494C-AD7F-C1FB44E0F252}'
+    m_lastTimePsrt1: -1420413227
+    m_lastTimePart2: -1999279471
+    List: []
+  ExpandedItems:
+  - /ColorUFO
+  - /ColorUFO/Events
+  - /ColorUFO/Events/Default Work Unit
+  - /ColorUFO/Events/Default Work Unit/music
+  - /ColorUFO/Events/Default Work Unit/SFX
+  - /ColorUFO/Events/Default Work Unit/SFX/items
+  - /ColorUFO/States
+  - /ColorUFO/States/Default Work Unit
+  m_lastPopulateTimePsrt1: 0
+  m_lastPopulateTimePart2: 0
+  autoPopulateEnabled: 1
+  basePath: Audio\GeneratedSoundBanks
+  language: English(US)
+  defaultPoolSize: 4096
+  lowerPoolSize: 2048
+  streamingPoolSize: 1024
+  preparePoolSize: 0
+  memoryCutoffThreshold: 0.95
+  callbackManagerBufferSize: 4

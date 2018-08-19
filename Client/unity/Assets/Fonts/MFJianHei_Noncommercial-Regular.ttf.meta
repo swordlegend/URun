@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f607024f3557136479b39e3c1e3d269c
+timeCreated: 1517975781
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MF JianHei (Noncommercial)
+  fontNames:
+  - MF JianHei (Noncommercial)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

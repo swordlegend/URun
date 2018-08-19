@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	733168346	game_start			\Default Work Unit\music\game_start	
+	1002342001	player_win			\Default Work Unit\music\player_win	
+	2005704188	main_menu			\Default Work Unit\music\main_menu	
+	2248092158	player_move			\Default Work Unit\SFX\player_move	
+	2249769530	UI_click			\Default Work Unit\SFX\UI_click	
+	3361170585	player_stop			\Default Work Unit\SFX\player_stop	
+	3490917514	battle_test			\Default Work Unit\music\battle_test	
+	3845628650	player_lose			\Default Work Unit\music\player_lose	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	music			\Default Work Unit\Master Audio Bus\music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3068281	early_game	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\early_game_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\early_game\early_game		1006882
+	7872017	leading_green	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\leading_green_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\battle\leading\leading_green\leading_green\leading_green		438237
+	13323193	lose_red	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\lose_red_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\lose\lose_red\lose_red		102199
+	25795587	win_green	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\win_green_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\win\win_green\win_green		111752
+	129721622	loop	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\menu_loop_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\menu\menu_loop_init\loop		240327
+	136787094	UI_Click	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\UI_Click_F7D0E330.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_Click		10080
+	207545032	win_red	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\win_red_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\win\win_red\win_red		151923
+	234019829	trailing_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\trailing_blue_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\battle\trailing\trailing_blue\trailing_blue\trailing_blue		426699
+	240774824	lose_green	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\lose_green_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\lose\lose_green\lose_green		102806
+	350567620	lose_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\lose_blue_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\lose\lose_blue\lose_blue		101337
+	476391911	leading_red	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\leading_red_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\battle\leading\leading_red\leading_red\leading_red		438596
+	510198938	transition_trailing	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\transition_trailing_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\transitions\transition_trailing\transition_trailing		42651
+	515143374	player_movement	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\UFO_movement_2488D354.wem		\Actor-Mixer Hierarchy\Default Work Unit\player_movement		27052
+	537285891	transition_leading	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\transition_leading_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\transitions\transition_leading\transition_leading		87756
+	603429783	menu_melody_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\menu_melody_blue_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\menu\menu_loop_melody\menu_melody_blue		176937
+	686193125	leading_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\leading_blue_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\battle\leading\leading_blue\leading_blue\leading_blue		426675
+	730035557	trailing_green	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\trailing_green_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\battle\trailing\trailing_green\trailing_green\trailing_green		426370
+	806187152	menu_melody_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\menu_melody_red_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\menu\menu_loop_melody\menu_melody_blue		205459
+	834702788	trailing_red	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\trailing_red_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\battle\trailing\trailing_red\trailing_red\trailing_red		432521
+	920707119	win_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\win_blue_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\win\win_blue\win_blue		114360
+	945485016	menu_melody_blue	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\menu_melody_green_AD29F36A.wem		\Interactive Music Hierarchy\Default Work Unit\music\menu\menu_loop_melody\menu_melody_blue		143421
+	1000872511	player_stop	C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\SFX\UFO_movement_67715040.wem		\Actor-Mixer Hierarchy\Default Work Unit\player_stop		6903
+

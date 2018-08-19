@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\Users\victo\Documents\WwiseProjects\ColorUFO\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\victo\Documents\WwiseProjects\ColorUFO\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\victo\Documents\WwiseProjects\ColorUFO\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\victo\Documents\WwiseProjects\ColorUFO\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1069811801" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\audio</ObjectPath>
+			<ShortName>audio</ShortName>
+			<Path>audio.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3490917514" Name="battle_test" ObjectPath="\Events\Default Work Unit\music\battle_test"/>
+				<Event Id="733168346" Name="game_start" ObjectPath="\Events\Default Work Unit\music\game_start"/>
+				<Event Id="2005704188" Name="main_menu" ObjectPath="\Events\Default Work Unit\music\main_menu"/>
+				<Event Id="3845628650" Name="player_lose" ObjectPath="\Events\Default Work Unit\music\player_lose"/>
+				<Event Id="2248092158" Name="player_move" ObjectPath="\Events\Default Work Unit\SFX\player_move"/>
+				<Event Id="3361170585" Name="player_stop" ObjectPath="\Events\Default Work Unit\SFX\player_stop"/>
+				<Event Id="1002342001" Name="player_win" ObjectPath="\Events\Default Work Unit\music\player_win"/>
+				<Event Id="2249769530" Name="UI_click" ObjectPath="\Events\Default Work Unit\SFX\UI_click"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="3068281" Language="SFX">
+					<ShortName>early_game.wav</ShortName>
+					<Path>SFX\early_game_AD29F36A.wem</Path>
+				</File>
+				<File Id="7872017" Language="SFX">
+					<ShortName>leading_green.wav</ShortName>
+					<Path>SFX\leading_green_AD29F36A.wem</Path>
+				</File>
+				<File Id="13323193" Language="SFX">
+					<ShortName>lose_red.wav</ShortName>
+					<Path>SFX\lose_red_AD29F36A.wem</Path>
+				</File>
+				<File Id="25795587" Language="SFX">
+					<ShortName>win_green.wav</ShortName>
+					<Path>SFX\win_green_AD29F36A.wem</Path>
+				</File>
+				<File Id="129721622" Language="SFX">
+					<ShortName>menu_loop.wav</ShortName>
+					<Path>SFX\menu_loop_AD29F36A.wem</Path>
+				</File>
+				<File Id="136787094" Language="SFX">
+					<ShortName>UI_Click.wav</ShortName>
+					<Path>SFX\UI_Click_F7D0E330.wem</Path>
+				</File>
+				<File Id="207545032" Language="SFX">
+					<ShortName>win_red.wav</ShortName>
+					<Path>SFX\win_red_AD29F36A.wem</Path>
+				</File>
+				<File Id="234019829" Language="SFX">
+					<ShortName>trailing_blue.wav</ShortName>
+					<Path>SFX\trailing_blue_AD29F36A.wem</Path>
+				</File>
+				<File Id="240774824" Language="SFX">
+					<ShortName>lose_green.wav</ShortName>
+					<Path>SFX\lose_green_AD29F36A.wem</Path>
+				</File>
+				<File Id="350567620" Language="SFX">
+					<ShortName>lose_blue.wav</ShortName>
+					<Path>SFX\lose_blue_AD29F36A.wem</Path>
+				</File>
+				<File Id="476391911" Language="SFX">
+					<ShortName>leading_red.wav</ShortName>
+					<Path>SFX\leading_red_AD29F36A.wem</Path>
+				</File>
+				<File Id="510198938" Language="SFX">
+					<ShortName>transition_trailing.wav</ShortName>
+					<Path>SFX\transition_trailing_AD29F36A.wem</Path>
+				</File>
+				<File Id="515143374" Language="SFX">
+					<ShortName>UFO_movement.wav</ShortName>
+					<Path>SFX\UFO_movement_2488D354.wem</Path>
+				</File>
+				<File Id="537285891" Language="SFX">
+					<ShortName>transition_leading.wav</ShortName>
+					<Path>SFX\transition_leading_AD29F36A.wem</Path>
+				</File>
+				<File Id="603429783" Language="SFX">
+					<ShortName>menu_melody_blue.wav</ShortName>
+					<Path>SFX\menu_melody_blue_AD29F36A.wem</Path>
+				</File>
+				<File Id="686193125" Language="SFX">
+					<ShortName>leading_blue.wav</ShortName>
+					<Path>SFX\leading_blue_AD29F36A.wem</Path>
+				</File>
+				<File Id="730035557" Language="SFX">
+					<ShortName>trailing_green.wav</ShortName>
+					<Path>SFX\trailing_green_AD29F36A.wem</Path>
+				</File>
+				<File Id="806187152" Language="SFX">
+					<ShortName>menu_melody_red.wav</ShortName>
+					<Path>SFX\menu_melody_red_AD29F36A.wem</Path>
+				</File>
+				<File Id="834702788" Language="SFX">
+					<ShortName>trailing_red.wav</ShortName>
+					<Path>SFX\trailing_red_AD29F36A.wem</Path>
+				</File>
+				<File Id="920707119" Language="SFX">
+					<ShortName>win_blue.wav</ShortName>
+					<Path>SFX\win_blue_AD29F36A.wem</Path>
+				</File>
+				<File Id="945485016" Language="SFX">
+					<ShortName>menu_melody_green.wav</ShortName>
+					<Path>SFX\menu_melody_green_AD29F36A.wem</Path>
+				</File>
+				<File Id="1000872511" Language="SFX">
+					<ShortName>UFO_movement.wav</ShortName>
+					<Path>SFX\UFO_movement_67715040.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,35 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	405984407	leading_player			\Default Work Unit\leading_player	
+	919992774	player_color			\Default Work Unit\player_color	
+	2453052416	game_status			\Default Work Unit\game_status	
+	3552156285	player_trailing			\Default Work Unit\player_trailing	
+
+State	ID	Name	State Group			Notes
+	748895195	None	leading_player			
+	980603538	red	leading_player			
+	1325827433	blue	leading_player			
+	4147287986	green	leading_player			
+	748895195	None	player_color			
+	980603538	red	player_color			
+	1325827433	blue	player_color			
+	4147287986	green	player_color			
+	221232726	lose	game_status			
+	579523862	explore	game_status			
+	748895195	None	game_status			
+	979765101	win	game_status			
+	2607556080	menu	game_status			
+	2937832959	battle	game_status			
+	748895195	None	player_trailing			
+	979470758	yes	player_trailing			
+	1668749452	no	player_trailing			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	music			\Default Work Unit\Master Audio Bus\music	
+
+Audio Devices	ID	Name	Type				Notes
+	530303819	Communication	Communication			
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+
